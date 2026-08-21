@@ -1,7 +1,7 @@
 {
-  "name": "express-multi-layer-cache",
+  "name": "zero-bill-backend",
   "version": "1.0.0",
-  "description": "Express server with multi-layer caching using Upstash Redis and node-cache",
+  "description": "Production-ready multi-layer caching proxy for financial assets",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
